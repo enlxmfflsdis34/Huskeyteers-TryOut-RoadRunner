@@ -1,8 +1,10 @@
-# Road Runner Quickstart
+# Huskeyteers tryout using roadrunner by Christopher & Jenny
 
-An example FTC project using [Road Runner](https://github.com/acmerobotics/road-runner). **Note:** Road Runner is in alpha and many of its APIs are incubating.
+Made with using [Road Runner](https://github.com/acmerobotics/road-runner). Added some stuffs due to our robot which has no arms, so has many buttons we can use for other methods.
 
 ## Installation
+
+**Note:** Road Runner is in alpha and many of its APIs are incubating.
 
 For more detailed instructions on getting Road Runner setup in your own project, see the [Road Runner README](https://github.com/acmerobotics/road-runner#core).
 
